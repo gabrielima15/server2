@@ -6,7 +6,7 @@ from datetime import datetime
 # Configurações globais
 HOST = '127.0.0.1'
 PORTA = 12345
-USUARIOS = {"aluno": "ifpb123", "admin": "admin123"}
+USUARIOS = {"aluno": "ifpb123","admin": "admin123"}
 LOGS_FILE = "server_logs.txt"
 clientes_conectados = []
 

@@ -1,67 +1,7 @@
-[2025-06-05 21:44:37.709404] Servidor iniciado em 127.0.0.1:12345
-[2025-06-05 21:45:51.899827] Servidor iniciado em 127.0.0.1:12345
-[2025-06-05 21:46:08.282533] Servidor iniciado em 127.0.0.1:12345
-[2025-06-05 21:46:32.423085] Falha de autenticação de ('127.0.0.1', 50301)
-[2025-06-05 21:46:32.424407] conexão encerrada: abcd@('127.0.0.1', 50301)
-[2025-06-05 21:49:51.108184] Falha de autenticação de ('127.0.0.1', 50341)
-[2025-06-05 21:49:51.109762] conexão encerrada: dedo@('127.0.0.1', 50341)
-[2025-06-05 21:50:46.089493] Falha de autenticação de ('127.0.0.1', 50343)
-[2025-06-05 21:50:46.091125] conexão encerrada: HORA@('127.0.0.1', 50343)
-[2025-06-05 22:23:14.293510]Sevidor iniciado em 127.0.0.1:12345
-[2025-06-05 22:26:52.673443] Servidor iniciado em 127.0.0.1:12345
-[2025-06-05 22:29:02.351843] Falha de autenticação de ('127.0.0.1', 50466)
-[2025-06-05 22:29:02.353133] conexão encerrada: HORA@('127.0.0.1', 50466)
-[2025-06-05 22:29:28.284733] Falha de autenticação de ('127.0.0.1', 50468)
-[2025-06-05 22:29:28.286016] conexão encerrada: hyper@('127.0.0.1', 50468)
-[2025-06-05 22:30:34.643564] Servidor iniciado em 127.0.0.1:12345
-[2025-06-05 22:31:22.714407] Servidor iniciado em 127.0.0.1:12345
-[2025-06-05 22:31:34.755705] Falha de autenticação de ('127.0.0.1', 50481)
-[2025-06-05 22:31:34.757070] conexão encerrada: 4567@('127.0.0.1', 50481)
-[2025-06-06 09:41:02.858984] Servidor iniciado em 127.0.0.1:12345
-[2025-06-06 09:41:17.016332] Falha de autenticação de ('127.0.0.1', 50558)
-[2025-06-06 09:41:17.017627] conexão encerrada: HORA@@('127.0.0.1', 50558)
-[2025-06-06 09:51:51.377400] Falha de autenticação de ('127.0.0.1', 50852)
-[2025-06-06 09:51:51.381044] conexão encerrada: http@('127.0.0.1', 50852)
-[2025-06-06 09:54:27.441539] Servidor iniciado em 127.0.0.1:12345
-[2025-06-06 09:54:43.589047] Falha de autenticação de ('127.0.0.1', 50924)
-[2025-06-06 09:54:43.590476] conexão encerrada: host@('127.0.0.1', 50924)
-[2025-06-06 09:55:06.447558] Falha de autenticação de ('127.0.0.1', 50927)
-[2025-06-06 09:55:06.448854] conexão encerrada: def@('127.0.0.1', 50927)
-[2025-06-06 09:55:28.276836] Servidor iniciado em 127.0.0.1:12345
-[2025-06-06 09:55:36.062291] Falha de autenticação de ('127.0.0.1', 50934)
-[2025-06-06 09:55:36.063722] conexão encerrada: def@('127.0.0.1', 50934)
-[2025-06-06 09:57:17.466763] Falha de autenticação de ('127.0.0.1', 50952)
-[2025-06-06 09:57:17.468226] conexão encerrada: def56@('127.0.0.1', 50952)
-[2025-06-06 09:57:36.133541] Servidor iniciado em 127.0.0.1:12345
-[2025-06-06 09:57:48.724908] Falha de autenticação de ('127.0.0.1', 50955)
-[2025-06-06 09:57:48.726256] conexão encerrada: deffff@('127.0.0.1', 50955)
-[2025-06-06 10:19:24.434072] Servidor iniciado em 127.0.0.1:12345
-[2025-06-06 10:19:45.484250] Falha de autenticação de ('127.0.0.1', 51158)
-[2025-06-06 10:19:45.485687] conexão encerrada: HORA@@('127.0.0.1', 51158)
-[2025-06-06 10:21:12.205508] Servidor iniciado em 127.0.0.1:12345
-[2025-06-06 10:21:32.340241] Falha de autenticação de ('127.0.0.1', 51187)
-[2025-06-06 10:21:32.341647] Conexão encerrada: hora12@('127.0.0.1', 51187)
-[2025-06-06 10:24:02.545264] Servidor iniciado em 127.0.0.1:12345
-[2025-06-06 10:24:11.395092] Falha de autenticação de ('127.0.0.1', 51286)
-[2025-06-06 10:24:11.396415] Conexão encerrada: def@('127.0.0.1', 51286)
-[2025-06-06 10:25:25.064512] Servidor iniciado em 127.0.0.1:12345
-[2025-06-06 10:25:38.566236] Falha de autenticação de ('127.0.0.1', 51318)
-[2025-06-06 10:25:38.567627] Conexão encerrada: caba@('127.0.0.1', 51318)
-[2025-06-06 10:25:52.329345] Falha de autenticação de ('127.0.0.1', 51320)
-[2025-06-06 10:25:52.330729] Conexão encerrada: def@('127.0.0.1', 51320)
-[2025-06-06 10:26:34.520042] Servidor iniciado em 127.0.0.1:12345
-[2025-06-06 10:27:04.524174] Novo cliente conectado: aluno@('127.0.0.1', 51334)
-[2025-06-06 10:27:24.787792] Mensagem de aluno: devjones o mago!!
-[2025-06-06 10:29:34.300191] Mensagem de aluno: HORA
-[2025-06-06 10:30:17.521822] Mensagem de aluno: DATA
-[2025-06-06 10:30:42.829749] Mensagem de aluno: @user
-[2025-06-06 10:32:52.851289] Mensagem de aluno: admin
-[2025-06-06 10:33:13.145196] Mensagem de aluno: chamado todos os cornos
-[2025-06-06 10:35:10.350926] Conexão encerrada: aluno@('127.0.0.1', 51334)
-[2025-06-06 10:36:34.441884] Servidor iniciado em 127.0.0.1:12345
-[2025-06-06 10:37:00.241079] Novo cliente conectado: aluno@('127.0.0.1', 51457)
-[2025-06-06 10:37:05.736446] Mensagem de aluno: hora
-[2025-06-06 10:37:09.659588] Mensagem de aluno: HORA
-[2025-06-06 10:37:13.061709] Mensagem de aluno: DATA
-[2025-06-06 10:37:16.155799] Mensagem de aluno: exit
-[2025-06-06 10:37:18.515295] Conexão encerrada: aluno@('127.0.0.1', 51457)
+[2025-06-12 21:01:49.628629] Servidor iniciado em 127.0.0.1:12345
+[2025-06-12 21:04:01.715732] Servidor iniciado em 127.0.0.1:12345
+[2025-06-12 21:04:39.392860] Novo cliente conectado: aluno@('127.0.0.1', 50814)
+[2025-06-12 21:04:43.360643] Mensagem de aluno: HORA
+[2025-06-12 21:04:48.166993] Mensagem de aluno: DATA
+[2025-06-12 21:04:54.803808] Mensagem de aluno: hello word
+[2025-06-12 21:05:14.412191] Conexão encerrada: aluno@('127.0.0.1', 50814)
